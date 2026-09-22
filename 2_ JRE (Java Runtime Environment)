@@ -1,0 +1,9 @@
+ JRE (Java Runtime Environment) 
+ It is a package that contains: 
+o JVM 
+o Java class libraries (like java.util, java.io) 
+o Other supporting files 
+ JRE is needed to run Java programs, but not to develop them. 
+�
+� Contents of JRE: 
+JRE = JVM + Java Libraries 
