@@ -1,0 +1,10 @@
+How Java Works – The Execution Flow 
+Java Source Code (.java) 
+↓ 
+Compiled by javac 
+↓ 
+Bytecode (.class) 
+↓ 
+Executed by JVM 
+↓ 
+Output on screen
