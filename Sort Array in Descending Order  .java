@@ -1,0 +1,2 @@
+Integer[] arr = {5, 3, 9, 1, 6};
+Arrays.sort(arr, Collections.reverseOrder()); 
